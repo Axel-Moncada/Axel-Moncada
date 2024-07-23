@@ -22,6 +22,6 @@
 
 - 📧 Email: [axelemoncada@gmail.com](mailto:axelemoncada@gmail.com)
 - 🌐 Portafolio: [axelmoncada.com/portafolio/](https://axelmoncada.com/portafolio/)
-- 💼 LinkedIn: [Axel Moncada](https://www.linkedin.com/in/axelmoncada/)
+- 💼 LinkedIn: [Axel Moncada](https://www.linkedin.com/in/axel-moncada/)
 
 
